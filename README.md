@@ -10,11 +10,8 @@
   
 
 - 🌱 I’m currently learning Devops and Backend development  
-  
 
-- ❓ Ask me about anything related to  and related technologies  
-  
-
+    
 - ⚡ Fun fact: I use tabs over spaces  
   
 
@@ -92,20 +89,10 @@
 <br/>   
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
+ 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=uttkarsh24&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
