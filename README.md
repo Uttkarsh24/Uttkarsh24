@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Uttkarsh, a  developer 👨‍💻and a Freshmen at JUET ,Guna, India🚀</div>  
+### <div align="center">I'm Uttkarsh, a  developer 👨‍💻and a Sophomore at JUET ,Guna, India🚀</div>  
   
 
-- 🔭 I’m currently working on [100_days_of_rust](https://github.com/anmol420/100-Days-Of-Rust)  
+- 🔭 I’m currently working on making backend projects and [DSA](https://github.com/Uttkarsh24/DSA)  
   
 
-- 🌱 I’m currently learning Devops and Backend development  
+- 🌱 I’m currently learning Rust and Backend development(MERN).  
 
     
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: 
   
 
 <br/>  
@@ -82,8 +82,16 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=uttkarsh24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats
+<p align="center">
+    <a href="https://github.com/uttkarsh24/github-readme-stats"><img alt="uttkarsh24's Github Stats" src="https://github-readme-stats.vercel.app/api?username=uttkarsh24&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+</p>
+
+## Top Languages
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uttkarsh24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="uttkarsh24" height="192px"/>
+</p> 
+
 
 <br/>   
 
